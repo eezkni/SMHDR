@@ -22,10 +22,10 @@ High Dynamic Range (HDR) image reconstruction aims to reconstruct images with a 
 Performance comparison of various HDR reconstruction models on three widely used datasets. The performance on metrics PSNR-*&mu;*, PSNR-*l*, SSIM-*&mu;*, SSIM-*l* and HDR-VDP2 are reported. The top three performances are highlighted in red, orange, and yellow backgrounds, respectively.
 
 
-<div align="center"> <img src=./readme-img/performance1.png width = "80%" height = "100%" /> </div>
+<div align="center"> <img src=./readme-img/performance1.png width = "90%" height = "100%" /> </div>
 
 
-<div align="center"> <img src=./readme-img/performance2.png width = "80%" height = "100%" /> </div>
+<div align="center"> <img src=./readme-img/performance2.png width = "90%" height = "100%" /> </div>
 
 
 ## Environment setup
