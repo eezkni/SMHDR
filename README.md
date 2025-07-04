@@ -16,6 +16,18 @@ High Dynamic Range (HDR) image reconstruction aims to reconstruct images with a 
 
 **TL;DR:** We propose a novel SAM-guided MIM for HDR reconstruction (SMHDR). The combination of curriculum learning strategy and masked image modeling bridges the gap between pixel fitting and semantic understanding, which successfully turns the knowledge of SAM into the intrinsic understanding of the quality issues of HDR images.
 
+
+## Experimental Results
+
+Performance comparison of various HDR reconstruction models on three widely used datasets. The performance on metrics PSNR-*&mu;*, PSNR-*l*, SSIM-*&mu;*, SSIM-*l* and HDR-VDP2 are reported. The top three performances are highlighted in red, orange, and yellow backgrounds, respectively.
+
+
+<div align="center"> <img src=./readme-img/performance1.png width = "60%" height = "100%" /> </div>
+
+
+<div align="center"> <img src=./readme-img/performance2.png width = "60%" height = "100%" /> </div>
+
+
 ## Environment setup
 To start, we prefer creating the environment using conda:
 ```sh
