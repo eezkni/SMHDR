@@ -12,13 +12,13 @@ International Journal of Computer Vision (IJCV), 2025
 </h4>
 
 
-# Semantic Masking with Curriculum Learning for Robust HDR Image Reconstruction
+<!-- # Semantic Masking with Curriculum Learning for Robust HDR Image Reconstruction
 
 #### International Journal of Computer Vision, 2025
 
 [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, Yang Zhang<sup>1</sup>, Kerui Ren<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=zh-CN)<sup>1</sup>, [Sam Kwong](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN)<sup>3</sup>
 
-<sup>1</sup>Tongji University, <sup>2</sup>Peng Cheng Laboratory, <sup>3</sup>Lingnan Univerity
+<sup>1</sup>Tongji University, <sup>2</sup>Peng Cheng Laboratory, <sup>3</sup>Lingnan Univerity -->
 
 This repository provides the official implementation for the paper "Semantic Masking with Curriculum Learning for Robust HDR Image Reconstruction," International Journal of Computer Vision, pp. 1-16, July 2025. [Paper](https://link.springer.com/article/10.1007/s11263-025-02504-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250703&utm_content=10.1007/s11263-025-02504-5)
 
