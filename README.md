@@ -35,12 +35,12 @@ High Dynamic Range (HDR) image reconstruction aims to reconstruct images with a 
 
 Performance comparison of various HDR reconstruction models on three widely used datasets. The performance on metrics PSNR-*&mu;*, PSNR-*l*, SSIM-*&mu;*, SSIM-*l* and HDR-VDP2 are reported. The top three performances are highlighted in red, orange, and yellow backgrounds, respectively.
 
-<div align="center"> <img src=./readme-img/performance1.png width = "800" /> </div>
-<!-- <div align="center"> <img src=./readme-img/performance1.png width = "90%" height = "100%" /> </div> -->
+<!-- <div align="center"> <img src=./readme-img/performance1.png width = "800" /> </div> -->
+<div align="center"> <img src=./readme-img/performance1.png width = "90%" height = "100%" /> </div>
 
 
-<div align="center"> <img src=./readme-img/performance2.png width = "800" /> </div>
-<!-- <div align="center"> <img src=./readme-img/performance2.png width = "90%" height = "100%" /> </div> -->
+<!-- <div align="center"> <img src=./readme-img/performance2.png width = "800" /> </div> -->
+<div align="center"> <img src=./readme-img/performance2.png width = "90%" height = "100%" /> </div>
 
 
 ## Environment setup
@@ -187,12 +187,13 @@ If you find our work useful, please cite it as
 ```
 @article{ni2025smhdr,
   title={Semantic Masking with Curriculum Learning for Robust HDR Image Reconstruction},
-	author={Ni, Zhangkai, and Zhang, Yang, and Ren, Kerui, and Yang, Wenhan, and Wang, Hanli and Kwong, Sam},
-	journal={International Journal of Computer Vision},
-	volume={},
-	pages={},
-	year={2025},
-	publisher={Springer}
+  author={Ni, Zhangkai and Zhang, Yang and Ren, Kerui and Yang, Wenhan and Wang, Hanli and Kwong, Sam},
+  journal={International Journal of Computer Vision},
+  volume={133},
+  number={10},
+  pages={6896--6911},
+  year={2025},
+  publisher={Springer}
 }
 ```
 
