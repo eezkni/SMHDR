@@ -20,7 +20,7 @@ International Journal of Computer Vision (IJCV), 2025
 
 <sup>1</sup>Tongji University, <sup>2</sup>Peng Cheng Laboratory, <sup>3</sup>Lingnan Univerity -->
 
-This repository provides the official implementation for the paper "Semantic Masking with Curriculum Learning for Robust HDR Image Reconstruction," International Journal of Computer Vision, pp. 1-16, July 2025. [Paper-official](https://link.springer.com/article/10.1007/s11263-025-02504-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250703&utm_content=10.1007/s11263-025-02504-5)
+This repository provides the official implementation for the paper "Semantic Masking with Curriculum Learning for Robust HDR Image Reconstruction," International Journal of Computer Vision, vol. 133, no. 10, pp. 6896-6911, July 2025. [Paper-official](https://link.springer.com/article/10.1007/s11263-025-02504-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250703&utm_content=10.1007/s11263-025-02504-5)
 
 ![Teaser](./readme-img/SMHDR.jpg)
 
